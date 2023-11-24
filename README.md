@@ -5,16 +5,16 @@ Este repositório contém meus exercícios em Python organizados por tópicos.
 ## Organização de Pastas
 
 - **Aulas Python:**
-  -[Declaração-Variaveis.py](Aula de declaração de variaveis em Python)
-  -[Aula-Operadores-Aritimeticos.py](Aula Para Operadores Aritimeticos)
-  -[Aula-f_strings-tuplas.py](converção de linha em tuplas)
-  -[Aula-f_strings.py](diferentes formas de formatar strings)
-  -[Aula-Fatiamento-f_string.py](Fatiamento de strings com python)
-  -[Aula-Formatação-de-strings](Formatação de Strings em python)
-  -[Aula-Interpolação-String.py](Interpolação de String em python)
-  -[Aula-Try-Excpet](Introdução ao try/except em python)
-  -[Aula-Operadores-logicos-and](Introdução a Operadores logicos And/or/not em python)
-  -[Aula-Operadores-relacionais.py](Operadores de comparação (relacionais).)
+  - [Declaração-Variaveis.py](Aula de declaração de variaveis em Python)
+  - [Aula-Operadores-Aritimeticos.py](Aula Para Operadores Aritimeticos)
+  - [Aula-f_strings-tuplas.py](converção de linha em tuplas)
+  - [Aula-f_strings.py](diferentes formas de formatar strings)
+  - [Aula-Fatiamento-f_string.py](Fatiamento de strings com python)
+  - [Aula-Formatação-de-strings](Formatação de Strings em python)
+  - [Aula-Interpolação-String.py](Interpolação de String em python)
+  - [Aula-Try-Excpet](Introdução ao try/except em python)
+  - [Aula-Operadores-logicos-and](Introdução a Operadores logicos And/or/not em python)
+  - [Aula-Operadores-relacionais.py](Operadores de comparação (relacionais).)
 
 
 - **Estruturas Condicionais Python:**
