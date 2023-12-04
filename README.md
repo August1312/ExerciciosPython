@@ -41,6 +41,9 @@ Este repositório contém meus exercícios em Python organizados por tópicos.
 - **Exercicios de Loop em Python**
   - [Gerador-de-dados-fake.py] - (gerado de dados fakes em python uliziando o loop (For) para gerar varios dados de uma vez)
 
+- ** Exercícios Logica em Python**
+ - [Exercicios de 1 a 10 em python] - (Exercicios de logica em python com varios temas variados)
+
 
 
 Sinta-se à vontade para explorar as pastas e encontrar os exercícios que mais lhe interessam.
